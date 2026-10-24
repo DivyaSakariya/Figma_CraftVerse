@@ -1,33 +1,64 @@
-# CraftVerse — Handmade Crochet & Custom Gift Store
+# 🧶 CraftVerse – Handmade Crochet & Custom Gift Store
 
-IPS UI/UX Using Figma | Individual assignment
+## 📌 Project Overview
+CraftVerse is a modern, responsive e-commerce landing page for handmade crochet products and personalized gifts. It provides an attractive and user-friendly shopping experience with interactive features and responsive UI/UX design.
 
-## Concept
-CraftVerse is a fictional handmade crochet marketplace featuring personalized gifts. Target users are gift buyers, students, and handmade-craft enthusiasts.
+## 🎯 Target Audience
+- Crochet and handmade product lovers
+- Personalized gift shoppers
+- Online shopping enthusiasts
+- Small handmade business owners
 
-## Pages
-- Desktop landing page: 1440 × 2040
-- Mobile landing page: 390 × 2250
+## ✨ Key Features
+- Modern and attractive landing page
+- Fully responsive UI for desktop, tablet, and mobile
+- Interactive navigation and buttons
+- Handmade crochet product collection
+- Personalized gift customization
+- Product details and feature cards
+- Reusable UI components
+- Consistent colors, typography, and spacing
 
-## Sections
-Header and CTA; hero; four featured product cards; customization CTA; three benefit cards; footer.
+## 📱 Responsive Design
 
-## Figma instructions
-1. Import both SVGs into Figma by dragging them onto the canvas.
-2. Recreate main groups as Figma Frames, then apply Auto Layout (Shift+A): header, buttons, product cards, feature cards, and vertical page sections.
-3. Create reusable components for Primary Button, Product Card, and Benefit Card (Ctrl+Alt+K).
-4. Add color and typography styles according to DESIGN_SYSTEM.md.
-5. Use Fill and Hug contents appropriately, and check layout at desktop and mobile widths.
-6. Save the final editable Figma file and add its share URL here: [Figma link].
+| Device | Screen Width |
+|---|---|
+| 🖥️ Desktop | 1440px |
+| 📱 Tablet | 768px |
+| 📲 Mobile | 390px |
 
-**Note:** SVG files are editable vector layouts, but SVG import does not preserve Figma Auto Layout, components, or styles. Complete those steps inside Figma for assignment compliance.
+## 🛠️ Technologies Used
+- **Figma** – UI/UX Design
+- **Auto Layout** – Responsive Layout
+- **Figma Components** – Reusable UI Elements
+- **HTML5** – Website Structure
+- **CSS3** – Responsive Styling
+- **JavaScript** – Interactive Functionality
 
-## Submission
-Add Figma share link, screenshots, and exported designs to this GitHub repository, then submit the repository URL in the faculty Google Sheet.
+## 🎨 Design System
+- **Primary Color:** Soft Pink
+- **Background:** Cream White
+- **Secondary Colors:** Pastel Green and Peach
+- **Typography:** Modern and readable fonts
+- **Design Style:** Minimal, elegant, and user-friendly
 
+## 🔗 Live Website Preview
+🌐 **[View CraftVerse Website](file:///C:/Users/Bhargav/Downloads/CraftVerse_Responsive_Tablet_Project/CraftVerse_Figma_Project/index.html)**
 
-## Responsive Update
-- `CraftVerse_Tablet.svg` — 768px tablet layout.
-- `index.html` — responsive interactive browser demonstration (desktop/tablet/mobile).
-- Buttons in the HTML demo navigate to sections or open customization dialogs; no checkout or backend is included.
-- For Figma submission, import SVGs and configure Auto Layout, reusable components, and Prototype interactions within Figma.
+## 🎨 Figma Design
+🎨 **[View CraftVerse Figma Project](https://www.figma.com/design/i1pcd1CpQqX2VU54BP1oNv/CraftVerse?node-id=0-1&t=fqgO3Un1ZCq15Xzk-1)**
+
+## 🚀 How to Run
+1. Download or clone the GitHub repository.
+2. Open `index.html` in your browser.
+3. Explore the responsive website and interactive features.
+
+## 📖 Project Objective
+To create an attractive, responsive, and interactive handmade shopping platform using Figma and modern web design principles.
+
+## ✅ Conclusion
+CraftVerse demonstrates responsive UI/UX design, reusable components, consistent visual styling, and interactive functionality to deliver an engaging online shopping experience.
+
+---
+
+⭐ **CraftVerse – Handmade with Love, Designed with Creativity.**
