@@ -42,9 +42,6 @@ CraftVerse is a modern, responsive e-commerce landing page for handmade crochet 
 - **Typography:** Modern and readable fonts
 - **Design Style:** Minimal, elegant, and user-friendly
 
-## 🔗 Live Website Preview
-🌐 **[View CraftVerse Website](file:///C:/Users/Bhargav/Downloads/CraftVerse_Responsive_Tablet_Project/CraftVerse_Figma_Project/index.html)**
-
 ## 🎨 Figma Design
 🎨 **[View CraftVerse Figma Project](https://www.figma.com/design/i1pcd1CpQqX2VU54BP1oNv/CraftVerse?node-id=0-1&t=fqgO3Un1ZCq15Xzk-1)**
 
